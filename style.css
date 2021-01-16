@@ -1,0 +1,10 @@
+body {
+  background: linear-gradient(45deg, red 0%, orange 25%, yellow 50%, green 75%, blue 100%);
+  width: 100vw;
+  height: 100vh;
+}
+
+header {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+}
